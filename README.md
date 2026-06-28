@@ -2,10 +2,10 @@
 
 Trabajo Práctico Integrador — Programación 1
 
-**Institución:** [COMPLETAR]  
-**Carrera:** [COMPLETAR]  
+**Institución:** UNIVERSIDAD TECNOLÓGICA NACIONAL - FACULTAD REGIONAL SAN NICOLÁS
+**Carrera:** TECNICATURA UNIVERSITARIA EN PROGRAMACIÓN
 **Materia:** Programación 1  
-**Integrantes:** Enzo, Cintia  
+**Integrantes:** Enzo Villegas, Cintia Ledesma
 
 ## Descripción
 
@@ -113,5 +113,5 @@ Europa: 1
 
 ## Enlaces
 
-- **Video demostrativo:** [PENDIENTE]
-- **Documentación (PDF):** [PENDIENTE]
+- **Video demostrativo:** 
+- **Documentación (PDF):** https://github.com/CintiaHL/Trabajo-Integrador-Enzo-Villegas-Cintia-Ledesma)
